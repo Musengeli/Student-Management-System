@@ -1,0 +1,21 @@
+.profile-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 1em;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .profile-container h2 {
+    text-align: center;
+  }
+  
+  .profile-item {
+    margin-bottom: 1em;
+  }
+  
+  .profile-item strong {
+    display: inline-block;
+    width: 100px;
+  }
+  
